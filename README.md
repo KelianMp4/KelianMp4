@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KelianMp4
-- 👀 I’m interested in web development and game development.
-- 🌱 I’m currently learning c#, c++, php, java, html, css, python 
-- 💞️ I’m looking to collaborate on web project and game project
+- 👀 I’m interested in web development and website design
+- 🌱 I’m currently learning php, javascripts, html, css and python 
 - 📫 How to reach me : chapoutot.kelian@yahoo.com
 
 <!---
