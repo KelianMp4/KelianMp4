@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:kelian.chapoutot@stacko.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelian-chapoutot)
-[![Website](https://img.shields.io/badge/Stacko-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://website.stacko.fr)
+[![Website](https://img.shields.io/badge/Stacko-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stacko.fr)
 
 </div>
 
