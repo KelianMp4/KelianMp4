@@ -4,8 +4,9 @@
 
 **CS student @ Université Paris-Saclay · Founder of Stacko · Future quantum computing engineer**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chapoutot.kelian@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:kelian.chapoutot@stacko.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelian-chapoutot)
+[![Website](https://img.shields.io/badge/Stacko-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://website.stacko.fr)
 
 </div>
 
@@ -24,9 +25,24 @@
 
 | Project | Description | Status |
 |---|---|---|
-| **Quantum From Scratch** | A quantum simulator written from scratch in Python, with LaTeX notes explaining the math behind each module | 🚧 In progress |
-| **Stack Detector** | An open-source Claude Code skill that detects a project's stack and sets up an AI-assisted workflow for it | 🚧 In progress |
-| **Stacko client work** | Custom web apps for SMEs (React, Vite, Node.js) | ✅ Ongoing |
+| **Quantum From Scratch** | A quantum simulator written from scratch in Python, with LaTeX notes explaining the math behind each module | 🚧 WIP |
+| **Stack Detector** | An open-source Claude Code skill that detects a project's stack and sets up an AI-assisted workflow for it | 🚧 WIP |
+
+---
+
+### 🏢 Stacko: my dev studio
+
+I run **[Stacko](https://stacko.fr)**, a one-person studio building custom websites and web apps for French small businesses. I handle everything end to end: design, development, deployment and hosting.
+
+| Project | What I built | Stack |
+|---|---|---|
+| **[Ale Invest](https://aleinvest.fr)** | Website for a private investment club: public showcase + secure members' area with 2FA (TOTP) | Next.js · PostgreSQL · Drizzle |
+| **Luxia** | Showcase website for an agtech startup designing adaptive-spectrum horticultural lamps | React · Vite · Tailwind · shadcn/ui |
+| **Stacko Leads** | B2B lead-generation tool: Google Maps scraping + French company registry (INSEE/Sirene) data, enriched and stored in PostgreSQL. Used by paying customers | Node.js · PostgreSQL (JSONB, PostGIS) · Playwright |
+
+**Infrastructure I manage myself:** OVH VPS (Ubuntu 24.04) · Nginx · PM2 · Docker · Certbot (HTTPS) · GitHub-based deployments
+
+👉 Case studies: **[website.stacko.fr](https://website.stacko.fr)**
 
 ---
 
@@ -45,8 +61,17 @@
 **Web**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
 
 **Systems**
 
